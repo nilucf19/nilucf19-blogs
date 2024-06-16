@@ -7,16 +7,10 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# GitHub Pages
+# Leetcode Weekly Contest 402
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
-
+Leetcode Weekly Contest was about 8:30 in the morning...
 </header>
-
-<!--
-  <<< Author notes: Finish >>>
-  Review what we learned, ask for feedback, provide next steps.
--->
 
 ## Finish
 
