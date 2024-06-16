@@ -1,5 +1,4 @@
 ---
-title: Welcome to my blog
-author: nilucf19
+title: "Welcome to my blog"
+date: 2019-01-20
 ---
-
